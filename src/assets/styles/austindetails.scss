@@ -1,0 +1,288 @@
+@font-face {
+    font-family: Poppins-SemiBold;
+    src: url(../fonts/Poppins-SemiBold.ttf);
+  }
+  @font-face {
+    font-family: Poppins-Bold;
+    src: url(../fonts/Poppins-Bold.ttf);
+  }
+  @font-face {
+    font-family: Poppins-medium;
+    src: url(../fonts/Poppins-Medium.ttf);
+  }
+  @font-face {
+    font-family: Nunito-Regular;
+    src: url(../fonts/Nunito-Regular.ttf);
+  }
+ @font-face {
+    font-family: Poppins;
+    src: url(../fonts/Poppins-Medium.ttf);
+  }
+  .austinheader{
+    font-family:Poppins-Bold;
+    font-size: 39px;
+    margin-top:8.0%;
+    margin-bottom: 8%;
+}
+.icon1{
+    background-image: url('../images/icon-1.png');
+    height: 80px;
+    width: 80px;
+    margin-left: 40px;
+}
+.icon2{
+    background-image: url('../images/icon-2.png');
+    height: 80px;
+    width: 80px;
+    margin-left: 40px;
+}
+.icon3{
+    background-image: url('../images/icon-3.png');
+    height: 80px;
+    width: 80px;
+    margin-left: 40px;
+}
+.icon4{
+    background-image: url('../images/icon-4.png');
+    height: 80px;
+    width: 80px;
+    margin-left: 40px;
+}
+.icon5{
+    background-image: url('../images/5.png');
+    height: 80px;
+    width: 80px;
+    margin-left: 40px;
+}
+.austinsideheading{
+  font-family:Poppins-Bold;
+  font-size: 22px;
+  width:264px;
+}
+.austinsidedetails{
+  color: #232323;
+  font-family: Nunito-Regular;
+  width:264px;
+  font-size: 15px;
+}
+.cont
+{
+    background-color: #001834;
+    margin-top:80px;
+    margin-bottom:80px;
+}
+.parag{
+    color: white;
+    font-size: 22px;
+    font-family: poppins-semibold;
+}
+#para{
+    padding: 3rem 4rem;
+}
+ .padd{
+     margin-left:85px;
+ }
+ .padd1{
+     margin-left: 85px;
+   
+}
+.artscol{
+    height: 208px;
+    width:539px;
+}
+.btn-art{
+    background-color: #FFC038;
+    color: #fff;
+    font-size: 14px;
+    font-family: Poppins-Bold;
+    height:30px;
+    width:134px;
+    border:1px solid ;
+    padding: 5px 11px;
+
+}
+.arts{
+font-family: poppins-medium;
+color: #222222 ;
+font-size: 18px;
+width:539px;
+}
+.artimage{
+    height: 300px;
+    width: 447px;
+}
+.btn-tech{
+    background-color: #31B2E0 ;
+    color: #fff;
+    font-family: poppins-bold;
+    margin-left: 91px;
+    font-size: 14px;
+    height:30px;
+    width:67px;
+    border:1px solid ;
+    padding: 5px 14px;
+}
+.tech{
+    font-family: Poppins-Medium;
+    color: #222222 ;
+font-size: 18px;
+width:539px;
+margin-left: 91px;
+}
+.btn-education{
+    background-color: #FF6666;
+    color: #fff;
+    font-size: 14px;
+    font-family: Poppins-Bold;
+    height:30px;
+    width:113px;
+    border:1px solid ;
+    padding: 5px 14px;
+}
+.education{
+    font-family: Poppins-Medium;
+    color: #222222 ;
+font-size: 18px;
+width:539px;
+}
+.marginbottom{
+    margin-bottom:80px;
+    margin-top:106px;
+}
+@media  (max-width: 768px) {
+
+    .austinheader{
+        font-family:Poppins-Bold;
+        font-size: 25px;
+        margin-top:8%;
+        margin-bottom: 8%;
+    }
+    .icon1{
+        background-image: url('../images/icon-1.png');
+        height: 80%;
+        width: 56%;
+        background-size: contain;
+        margin-left: 0px;
+        background-repeat: no-repeat;
+    }
+    .icon2{
+        background-image: url('../images/icon-2.png');
+        height: 80px;
+        width: 80px;
+        margin-left: 40px;
+    }
+    .icon3{
+        background-image: url('../images/icon-3.png');
+        height: 80px;
+        width: 80px;
+        margin-left: 40px;
+    }
+    .icon4{
+        background-image: url('../images/icon-4.png');
+        height: 80px;
+        width: 80px;
+        margin-left: 40px;
+    }
+    .icon5{
+        background-image: url('../images/5.png');
+        height: 80px;
+        width: 80px;
+        margin-left: 40px;
+    }
+    .austinsideheading{
+      font-family:Poppins-Bold;
+      font-size: 14px;
+      width:106%;
+    }
+    .austinsidedetails{
+      color: #232323;
+      font-family: Nunito-Regular;
+      width:264px;
+      font-size: 15px;
+    }
+    .cont
+    {
+        background-color: #001834;
+        margin-top:80px;
+        margin-bottom:80px;
+    }
+    .parag{
+        color: white;
+        font-size: 22px;
+        font-family: poppins-semibold;
+    }
+    #para{
+        padding: 3rem 4rem;
+    }
+     .padd{
+         margin-left:85px;
+     }
+     .padd1{
+         margin-left: 85px;
+       
+    }
+    .artscol{
+        height: 208px;
+        width:539px;
+    }
+    .btn-art{
+        background-color: #FFC038;
+        color: #fff;
+        font-size: 14px;
+        font-family: Poppins-Bold;
+        height:30px;
+        width:134px;
+        border:1px solid ;
+        padding: 5px 11px;
+    
+    }
+    .arts{
+    font-family: poppins-medium;
+    color: #222222 ;
+    font-size: 18px;
+    width:539px;
+    }
+    .artimage{
+        height: 300px;
+        width: 447px;
+    }
+    .btn-tech{
+        background-color: #31B2E0 ;
+        color: #fff;
+        font-family: poppins-bold;
+        margin-left: 91px;
+        font-size: 14px;
+        height:30px;
+        width:67px;
+        border:1px solid ;
+        padding: 5px 14px;
+    }
+    .tech{
+        font-family: Poppins-Medium;
+        color: #222222 ;
+    font-size: 18px;
+    width:539px;
+    margin-left: 91px;
+    }
+    .btn-education{
+        background-color: #FF6666;
+        color: #fff;
+        font-size: 14px;
+        font-family: Poppins-Bold;
+        height:30px;
+        width:113px;
+        border:1px solid ;
+        padding: 5px 14px;
+    }
+    .education{
+        font-family: Poppins-Medium;
+        color: #222222 ;
+    font-size: 18px;
+    width:539px;
+    }
+    .marginbottom{
+        margin-bottom:80px;
+        margin-top:106px;
+    }
+  
+}

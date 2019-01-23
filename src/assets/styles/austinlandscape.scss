@@ -1,0 +1,128 @@
+@font-face {
+    font-family: Poppins-SemiBold;
+    src: url(../fonts/Poppins-SemiBold.ttf);
+  }
+  @font-face {
+    font-family: Poppins-Bold;
+    src: url(../fonts/Poppins-Bold.ttf);
+  }
+  @font-face {
+    font-family: Poppins-medium;
+    src: url(../fonts/Poppins-Medium.ttf);
+  }
+  @font-face {
+    font-family: Nunito-Regular;
+    src: url(../fonts/Nunito-Regular.ttf);
+  }
+  @font-face {
+    font-family: Nunito-bold;
+    src: url(../fonts/Nunito-Bold.ttf);
+  }
+.margintopb {
+    margin-top:80px;
+}
+.austinlandscapeheading{
+    font-family: poppins-bold;
+    color: #222222;
+    font-size: 39px;
+    margin-bottom: 80px;
+}
+.mapbottom{
+    margin-bottom: 60px;
+    margin-top:60px;
+}
+.alfont{
+    font-family: Nunito-Bold;
+    color: #232323;
+    font-size: 15px;
+
+}
+.circle {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    text-align:center;
+    color:white;
+    padding:4px 10px;
+    font-family: Poppins-SemiBold;
+    font-size: 15px;
+  }
+  .bg2{
+      background-color:#00BB96;
+  }
+  .bg3{
+    background-color:#9E6543 ;
+}
+.bg4{
+    background-color:#5A3588;
+}
+.bg7{
+    background-color: #A627D7 ;
+}
+.bg8{
+    background-color:#43567A ;
+}
+.bg9{
+    background-color:#EE5A9F  ;
+}
+.bg10{
+    background-color:#FF7C39  ;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    text-align:center;
+    color:white;
+    padding:4px 9px;
+}
+.bg11{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    text-align:center;
+    color:white;
+    padding:4px 11px;
+}
+.bg12{
+    background-color:#FF7C39  ;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    text-align:center;
+    color:white;
+    padding:4px 9px;
+}
+.bg13{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    text-align:center;
+    color:white;
+    padding:4px 9px;
+}
+.bgblue{
+    background-color:#001834 ;
+    width: 100%;
+}
+.ao{
+    color:#A3B6CC;
+    border: 1px solid #3D5066;
+}
+.contmain{
+    padding: 3rem ;
+    margin-bottom: 60px;
+}
+.marRight{
+    margin-right:1.4%;
+    margin-bottom: 1.2%;
+    font-family:Poppins-SemiBold;
+    font-size:15px;
+    color: #A3B6CC;
+}
+.btn-outline-primary{
+    color: #A3B6CC;
+}
+#bla{
+    border-radius:0%;
+    color:#A3B6CC;
+    font-size:15px;
+}

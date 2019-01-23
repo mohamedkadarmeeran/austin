@@ -1,0 +1,121 @@
+@font-face {
+    font-family: Poppins-SemiBold;
+    src: url(../fonts/Poppins-SemiBold.ttf);
+  }
+  @font-face {
+    font-family: Poppins-Bold;
+    src: url(../fonts/Poppins-Bold.ttf);
+  }
+  @font-face {
+    font-family: Poppins-medium;
+    src: url(../fonts/Poppins-Medium.ttf);
+  }
+  @font-face {
+    font-family: Nunito-Regular;
+    src: url(../fonts/Nunito-Regular.ttf);
+  }
+  @font-face {
+    font-family: Nunito-bold;
+    src: url(../fonts/Nunito-Bold.ttf);
+  }
+.margintopaustinmarket{
+    margin-top: 80px;
+}
+.austinofficemarketheading{
+    font-family: Poppins-Bold;
+    color: #222222 ;
+    font-size: 39px;
+    margin-bottom:120px;
+}
+.vacancy{
+    background-color: #F2FAF7;
+    width: 264px;
+    margin-bottom: 20px;
+}
+.vacany1{
+background-image: url('../images/Group 13.png');
+height: 40px;
+width: 40px;
+margin: 23%;
+}
+.construction{
+    background-image: url('../images/Group 8.png');
+    height: 40px;
+    width: 40px;
+    margin: 23%;
+}
+.deliveries{
+    background-image: url('../images/Group 8.png');
+    height: 40px;
+    width: 40px;
+    margin: 23%;
+}
+.net{
+    background-image: url('../images/Group 8.png');
+    height: 40px;
+    width: 40px;
+    margin: 23%;
+}
+.avg{
+    background-image: url('../images/Group 13.png');
+    height: 40px;
+    width: 40px;
+    margin: 23%;
+}
+.downvacnacyheading{
+    font-size: 52px;
+    color: #003681;
+letter-spacing: 0;
+line-height: 60px;
+font-family: poppins-bold;
+width: 721px;
+height: 180px;
+margin-bottom: 29px;
+}
+.downvacnacyheading1{
+    font-size: 18px;
+    font-family: Poppins-Medium;
+color: #222222;
+letter-spacing: 0;
+line-height: 26px;
+width:539px;
+height: 182px;
+margin-bottom: 50px;
+}
+.vacancysidehead{
+    color: #232323;
+    font-size: 15px;
+    font-family: Nunito-Regular;
+    margin-bottom: 0px;
+    margin-top: 15px;
+}
+.vacancydetails{
+    font-family: Poppins-SemiBold;
+    color:#222222;
+    font-size: 18px;
+}
+.source{
+font-family: Nunito-Bold;
+color: #232323;
+font-size: 15px;
+margin-top: 50px;
+}
+.research{
+    font-family: Nunito-Regular;
+    color: #111111 ;
+    font-size: 15px;
+}
+.btn-fom{
+    background-color: #003681;
+    color: #fff;
+    width:172px;
+    font-family: Poppins-SemiBold;
+    font-size: 15px;
+    height: 60px;
+}
+#fom{
+    border-radius: 0%;
+}
+#fom:active{
+    background-color: aqua;
+}

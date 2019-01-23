@@ -1,0 +1,60 @@
+@font-face {
+    font-family: Poppins-SemiBold;
+    src: url(../fonts/Poppins-SemiBold.ttf);
+  }
+  @font-face {
+    font-family: Poppins-Bold;
+    src: url(../fonts/Poppins-Bold.ttf);
+  }
+  @font-face {
+    font-family: Poppins-medium;
+    src: url(../fonts/Poppins-Medium.ttf);
+  }
+  @font-face {
+    font-family: Nunito-Regular;
+    src: url(../fonts/Nunito-Regular.ttf);
+  }
+  @font-face {
+    font-family: Nunito-bold;
+    src: url(../fonts/Nunito-Bold.ttf);
+  }
+  @font-face {
+    font-family: Nunito-semibold;
+    src: url(../fonts/Nunito-SemiBold.ttf);
+  }
+
+
+.contact{
+    width:720px;
+    margin: 0 auto;
+}
+.contacthead{
+    font-family:Poppins-Bold;
+    font-size: 28px;
+    color:#222222;
+    margin-bottom:60px;
+}
+#name , #email, #select, #phoneno, #message{
+    background-color:#F0F0F0  ;
+    border-radius: 0%;
+    font-family: Nunito-SemiBold;
+}
+.bmargin{
+    width: 170px;
+    height: 60px;
+    background-color: #003681 ;
+    color: #fff;
+    cursor: pointer;
+    font-size: 15px;
+    font-family: Poppins-SemiBold;
+    margin-bottom:80px;
+}
+#inputtxt{
+  padding-right:0px;
+  padding-bottom: 0px;
+}
+.contact__errmsg{
+  color:red;
+  font-family: Poppins-SemiBold;
+  font-size: 15px;
+}

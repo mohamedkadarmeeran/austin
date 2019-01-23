@@ -1,0 +1,140 @@
+@font-face {
+    font-family:Poppins-SemiBold ;
+    src:url(../../assets/fonts/Poppins-SemiBold.ttf);
+  } 
+  @font-face {
+   font-family:Poppins-Bold ;
+   src:url(../../assets/fonts/Poppins-Bold.ttf);
+  } 
+  @font-face {
+   font-family:Nunito-Regular ;
+   src:url(../../assets/fonts/Nunito-Regular.ttf);
+  } 
+  
+  .austindetails{
+       padding:15px 70px 0px 50px;  
+      font-family:Poppins-Bold;
+      color:#222222 ;
+      text-align: left;  
+      width: 538px;
+  }
+  
+  .austinofficeowner{
+     background-color:#FAFAFA;
+   margin-top:30px; 
+   padding: 5% 0%;
+   
+  }
+  .insidecontent{
+    background-color:#ffffff; 
+    padding: 4% 5%;
+  }
+  .imagess{
+    margin-top:20px;
+    margin-left: 91px;
+  }
+  .margin:left{
+    width:538px;
+
+  }
+  .austinheading{
+    font-family:Poppins-Bold;
+    font-size:39px;
+    padding: 0% 0 5% 12%;
+  }
+  .sideheading{
+    width: 538px;
+    font-family: Poppins-Bold;
+    font-size: 28px;
+    margin-left:91px;
+  }
+  .loreumcontent{
+font-family: Nunito-Regular;
+font-size: 15px;
+color: #232323;
+letter-spacing: 0;
+line-height: 24px;
+width:538px;
+margin-left:91px;
+  }
+  .butintouch{
+    font-family:Poppins-SemiBold;
+    font-size:15px; 
+    color: #222222;
+    background-color: #ffffff;
+    width: 172px;
+    height: 50px;
+    margin-left: 91px;
+    cursor:pointer;
+    border: 1px solid #838383;
+  }
+  #selected:active{
+    background-color: blue;
+  }
+
+  @media (max-width: 767px) {
+    
+    .austindetails{
+      padding:15px 70px 0px 50px;  
+     font-family:Poppins-Bold;
+     color:#222222 ;
+     text-align: left;  
+     width: 538px;
+ }
+ 
+ .austinofficeowner{
+    background-color:#FAFAFA;
+  margin-top:30px; 
+  padding: 5% 0%;
+  
+ }
+ .insidecontent{
+   background-color:#ffffff; 
+   padding: 4% 5%;
+ }
+ .imagess{
+   margin-top:20px;
+   margin-left: 91px;
+ }
+ .margin:left{
+   width:538px;
+
+ }
+ .austinheading{
+   font-family:Poppins-Bold;
+   font-size:39px;
+   padding: 0% 0 5% 12%;
+ }
+ .sideheading{
+   width: 538px;
+   font-family: Poppins-Bold;
+   font-size: 28px;
+   margin-left:91px;
+ }
+ .loreumcontent{
+font-family: Nunito-Regular;
+font-size: 15px;
+color: #232323;
+letter-spacing: 0;
+line-height: 24px;
+width:538px;
+margin-left:91px;
+ }
+ .butintouch{
+   font-family:Poppins-SemiBold;
+   font-size:15px; 
+   color: #222222;
+   background-color: #ffffff;
+   width: 172px;
+   height: 50px;
+   margin-left: 91px;
+   cursor:pointer;
+   border: 1px solid #838383;
+ }
+ #selected:active{
+   background-color: blue;
+ }
+
+
+  }
+

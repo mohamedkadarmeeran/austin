@@ -1,0 +1,133 @@
+@font-face {
+  font-family: Poppins-SemiBold;
+  src: url(../fonts/Poppins-SemiBold.ttf);
+}
+@font-face {
+  font-family: Poppins-Bold;
+  src: url(../fonts/Poppins-Bold.ttf);
+}
+@font-face {
+  font-family: Poppins-medium;
+  src: url(../fonts/Poppins-Medium.ttf);
+}
+@font-face {
+  font-family: Nunito-Regular;
+  src: url(../fonts/Nunito-Regular.ttf);
+}
+@font-face {
+  font-family: Nunito-bold;
+  src: url(../fonts/Nunito-Bold.ttf);
+}
+@font-face {
+  font-family: Nunito-semibold;
+  src: url(../fonts/Nunito-SemiBold.ttf);
+}
+.banner{
+  width:100%;
+  height: 100%;;
+  background-image:url('../images/pennybacker_bridge_austin-wallpaper-2048x1152@3x.png');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  padding-bottom: 11rem;
+}
+.main{
+  margin-left:18.5%;
+    margin-right:18.6%;
+    padding-top: 4%;
+    width:60.8%;
+}
+#nvbars{
+  padding:0px;
+  color:#222222;
+}
+.navbar-brand{
+  background-color:#003681; 
+ }
+ .logo{
+  margin:15px; 
+  width : 120px;
+  height: 40px;
+ }
+ .collapse {
+  margin:0px 69px;
+ }
+ .nav-link{
+  font-family: Poppins-SemiBold;
+  font-size: 13px;
+color: #000000;
+letter-spacing: 0;
+ }
+ .Austintaxas{
+  width: 21%;
+  height: 17%;
+  margin: o auto;
+  margin: 12.6% 17.5%;
+  padding-right: 61px;
+ }
+ .texas{
+   color:#ffffff;
+   font-family:Poppins-Bold;
+   font-size: 22px;
+   letter-spacing: 0;
+ line-height: 26px;
+ width:381px;
+ }
+ .best{
+   font-family:Poppins-Bold;
+   width:381px;
+   color:#FFFFFF;
+   font-size: 60px;
+   letter-spacing: 0;
+ line-height: 60px;
+ }
+ .us{
+   font-family:Nunito-Regular;
+   color:#FFFFFF;
+   font-size: 18px;
+   letter-spacing: 0;
+ line-height: 26px;
+ }
+ .cont_width{
+   width:936px;
+ }
+ .three{
+  font-family: Poppins-Bold;
+  font-size: 39px;
+  color: #FFFFFF;
+  letter-spacing: 0;
+  line-height: 60px;
+  margin-left:40px;
+  margin-top:20px;
+}
+.city3{
+  font-family: Poppins-Bold;
+  font-size: 22px;
+  color: #FFFFFF;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left:40px;
+  height: 78px;
+  width: 187px;
+}
+.forbes{
+  font-family: Nunito-Regular;
+  font-size: 15px;
+  color: #FFFFFF;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left:40px;
+  margin-bottom: 1.5rem;
+}
+.bg-color{
+  background-color:#34304C; 
+ }
+
+@media only screen and(min-width:576px){
+
+}
+ @media only screen and(min-width: 576px) and (max-width: 768px) {
+  
+  
+  
+}
